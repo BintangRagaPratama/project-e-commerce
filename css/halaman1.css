@@ -1,0 +1,7 @@
+.card {
+    height: 350px; /* Atur tinggi yang diinginkan */
+}
+.card-img-top {
+    height: 150px; /* Atur tinggi gambar jika perlu */
+    object-fit: cover; /* Menjaga proporsi gambar */
+}
